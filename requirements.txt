@@ -14,7 +14,7 @@ colorama==0.3.9
 coverage==4.3.4
 cryptography>=1.9
 decorator==4.0.11
-Django==1.11
+Django==3.2.15
 docutils==0.12
 enum34==1.1.6
 et-xmlfile==1.0.1
@@ -46,7 +46,7 @@ opencv-python==3.3.0.9
 openpyxl==2.5.1
 openpyxl-templates==0.1.15
 packaging==16.8
-paramiko==2.4.0
+paramiko==2.10.1
 pathtools==0.1.2
 pbr==2.0.0
 Pillow==3.2.0
@@ -73,10 +73,10 @@ python-dateutil==2.6.0
 python-owasp-zap-v2.4==0.0.12
 PyTweening==1.0.3
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 query-string==0.0.28
 redis==2.10.5
-requests==2.18.1
+requests==2.20
 requests-oauthlib==0.8.0
 Robot-AppEyes==1.2
 robotframework==3.0.4
@@ -122,9 +122,9 @@ suds==0.4
 termcolor==1.1.0
 tornado==4.5.3
 tox==2.9.1
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
-waitress==1.1.0
+waitress==2.1.1
 watchdog==0.8.3
 WebOb==1.7.4
 websocket-client==0.46.0
