@@ -114,7 +114,7 @@ robotframework-zaplibrary==0.0.1
 robotremoteserver==1.1
 sauceclient==0.2.1
 scp==0.10.2
-selenium==3.5.0
+selenium==4.15.1
 setuptools-scm==1.15.0
 singledispatch==3.4.0.3
 six==1.10.0
@@ -129,6 +129,6 @@ watchdog==0.8.3
 WebOb==1.7.4
 websocket-client==0.46.0
 WebTest==2.0.29
-Werkzeug==0.14.1
+Werkzeug==3.0.3
 wrapt==1.10.10
 xlrd==1.1.0
