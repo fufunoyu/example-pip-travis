@@ -124,11 +124,11 @@ tornado==4.5.3
 tox==2.9.1
 urllib3==1.21.1
 virtualenv==15.1.0
-waitress==1.1.0
+waitress==3.0.1
 watchdog==0.8.3
 WebOb==1.7.4
 websocket-client==0.46.0
 WebTest==2.0.29
-Werkzeug==0.14.1
+Werkzeug==3.0.6
 wrapt==1.10.10
 xlrd==1.1.0
