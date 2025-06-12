@@ -14,7 +14,7 @@ colorama==0.3.9
 coverage==4.3.4
 cryptography>=1.9
 decorator==4.0.11
-Django==1.11
+Django==4.2.22
 docutils==0.12
 enum34==1.1.6
 et-xmlfile==1.0.1
@@ -76,7 +76,7 @@ pytz==2017.2
 PyYAML==3.12
 query-string==0.0.28
 redis==2.10.5
-requests==2.18.1
+requests==2.32.4
 requests-oauthlib==0.8.0
 Robot-AppEyes==1.2
 robotframework==3.0.4
